@@ -1,2 +1,2 @@
 # Sand
-[Промт](promt\report.ipynb)
+[Промт](promt/report.ipynb)
