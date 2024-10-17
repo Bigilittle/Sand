@@ -1,1 +1,1 @@
-## [Промт](promt/report.ipynb)
+## [Промты](promt/report.ipynb)
